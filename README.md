@@ -2,6 +2,9 @@
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
 - Find it on Telegram as [Promoter](https://t.me/ForceSubscribeBot)
 
+## Deployment
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+
 ## Todo
 - [ ] Add multiple channels support
 - [X] Configure different groups with different channels
